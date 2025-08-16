@@ -1,2 +1,0 @@
-# appServiceNode
-Node JS Application
