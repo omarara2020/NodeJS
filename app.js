@@ -3,7 +3,7 @@ const app = express();
 const port = process.env.PORT || 3000; // Azure sets PORT env var
 
 app.get('/', (req, res) => {
-  res.send('This is my first app Version 2');
+  res.send('This is my first app Version 2 Staging');
 });
 
 app.listen(port, () => console.log(`Listening on ${port}`));
